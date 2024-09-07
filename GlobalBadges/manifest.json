@@ -1,19 +1,22 @@
 {
     "name": "GlobalBadges",
-    "version": "1.2.7",
+    "version": "1.3.0",
     "description": "Adds global badges from other client mods",
     "authors": [
         {
             "name": "domi.btnr",
             "id": "354191516979429376"
+        },
+        {
+            "name": "verticalsync",
+            "id": "1207087393929171095"
         }
     ],
     "color": "#E54B4B",
-    "rawUrl": "https://raw.githubusercontent.com/domi-btnr/Enmity-Stuff/main/dist/GlobalBadges.js",
-    "sourceUrl": "https://github.com/domi-btnr/Enmity-Stuff/tree/main/GlobalBadges",
+    "rawUrl": "https://raw.githubusercontent.com/verticalsync/Enmity-Stuff/main/dist/GlobalBadges.js",
+    "sourceUrl": "https://github.com/verticalsync/Enmity-Stuff/tree/main/GlobalBadges",
     "changelog": [
-        "Fixed Badges not appearing on Profiles",
-        "Fixed Settings repository button not opening and updated descriptions."
+        "Using repo verticalsync/Enmity-Stuff for custom client mod badges api by Equicord"
     ],
     "hash": "DEBUG"
 }
